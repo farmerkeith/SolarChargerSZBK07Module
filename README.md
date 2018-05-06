@@ -12,4 +12,4 @@ An LCD character display provides status information. A push button turns on the
 
 # Schematic
 The schematic circuit diagram has been prepared using KiCad. 
-
+For more information about controlling the output of the SZBK07 module, please see my Instructable on controlling DC converter modules at https://www.instructables.com/id/Controlling-DC-Converter-Modules/ 
